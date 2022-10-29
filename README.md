@@ -4,7 +4,7 @@
 
 Którego wybierasz ? :wink: :relaxed:
 
-__```
+```
 while odp==True:
   print ("Mamy konesera energoli ^.^")
-```__
+```
