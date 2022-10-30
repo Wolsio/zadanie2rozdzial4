@@ -1,4 +1,4 @@
-# Booooo  {#link} 
+# Booooo {#link} 
 Co zrobić przed 1 listopada
 - [x] Wystraszyć kogoś na halloween
 - [ ] Kupić coś słodkiego
