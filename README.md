@@ -1,4 +1,4 @@
-# Booooo! {#id} </br>
+# Booooo {#id} </br>
 Co zrobić przed 1 listopada
 - [x] Wystraszyć kogoś na halloween
 - [ ] Kupić coś słodkiego
@@ -14,7 +14,7 @@ Co zrobić przed 1 listopada
 
 Którego wybierasz[^1] ? :wink: :relaxed:
 
-```
+```py
 while odp==True:
   print ("Mamy konesera energoli ^.^")
 ```
