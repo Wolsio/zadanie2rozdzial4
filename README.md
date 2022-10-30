@@ -342,5 +342,5 @@ while odp==True:
 
 
 
-#Booooo!{#identyfikator}
-![picture](picture/https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Ftags%2Fcute_ghost&psig=AOvVaw3GuEKrip0Y5TtQFc_gjB1n&ust=1667212710474000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMDq1rzhh_sCFQAAAAAdAAAAABAE)
+#Booooo! {#identyfikator}
+![picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Ftags%2Fcute_ghost&psig=AOvVaw3GuEKrip0Y5TtQFc_gjB1n&ust=1667212710474000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMDq1rzhh_sCFQAAAAAdAAAAABAE)
