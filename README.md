@@ -1,7 +1,8 @@
 # Booooo! {#identyfikator}
-[x] Wystraszyć kogoś na halloween
-[] Kupić coś słodkiego
-[] bejrzeć Miasteczko Halloween
+Co zrobić przed 1 listopada
+-[x] Wystraszyć kogoś na halloween
+-[] Kupić coś słodkiego
+-[] bejrzeć Miasteczko Halloween
 
 
 
