@@ -1,4 +1,4 @@
-# Booooo {#id} </br>
+# Booooo  </br>
 Co zrobić przed 1 listopada
 - [x] Wystraszyć kogoś na halloween
 - [ ] Kupić coś słodkiego
@@ -6,7 +6,7 @@ Co zrobić przed 1 listopada
 
 
 
-[Link do nagłówka](#id)
+[Link do nagłówka](#Booooo)
 
 |Lewa|Prawa|
 |:---:|:---:|
