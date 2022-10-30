@@ -1,12 +1,12 @@
-# Booooo! {#identyfikator}
+# Booooo! {#id} </br>
 Co zrobić przed 1 listopada
--[x] Wystraszyć kogoś na halloween
--[] Kupić coś słodkiego
--[] bejrzeć Miasteczko Halloween
+- [x] Wystraszyć kogoś na halloween
+- [ ] Kupić coś słodkiego
+- [ ] bejrzeć Miasteczko Halloween
 
 
 
-[Link do nagłówka](#identyfikator)
+[Link do nagłówka](#id)
 
 |Lewa|Prawa|
 |:---:|:---:|
